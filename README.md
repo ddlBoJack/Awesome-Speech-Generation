@@ -35,7 +35,7 @@ Paper, Code and Statistics for Speech Generatation.
 
 ### Image-Guided
 
-[I Hear Your True Colors: Image Guided Audio Generation](https://arxiv.org/abs/2211.03089)  - *R Sheffer et al*, `arXiv 2022`
+- [I Hear Your True Colors: Image Guided Audio Generation](https://arxiv.org/abs/2211.03089)  - *R Sheffer et al*, `arXiv 2022`
 
 
 
