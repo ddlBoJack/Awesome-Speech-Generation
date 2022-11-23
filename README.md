@@ -7,7 +7,7 @@
     - [2022](#2022)
     - [Text-Guided](#text-guided)
     - [Image-Guided](#image-guided)
-    - [Resources](#resources)
+  - [Resources](#resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -39,7 +39,7 @@ Paper, Code and Statistics for Speech Generatation.
 
 
 
-### Resources
+## Resources
 
 [EnCodec: High Fidelity Neural Audio Compression](https://github.com/facebookresearch/encodec)
 
